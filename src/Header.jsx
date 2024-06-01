@@ -3,7 +3,7 @@ import abi from './assets/carla.png'
 function Header(){
     return (
         <header>
-            <img src={abi} alt="Abi, a cat with black and white fur similar to that of a cow." className='header-img'/>
+            <img src={abi} alt="Carla" className='header-img'/>
             <div className='header-content'>
                 <h1>Carla Martins</h1>
                  <p className='header-role'>Frontend Developer</p>
