@@ -1,9 +1,9 @@
-import abi from './assets/carla-img.png'
+import carla from './assets/carlam.jpg'
 
 function Info(){
     return (
         <header>
-            <img src={abi} alt="Carla" className='info-img'/>
+            <img src={carla} alt="Carla" className='info-img'/>
             <div className='info-content'>
                 <h1>Carla Martins</h1>
                  <p className='info-role'>Frontend Developer</p>
