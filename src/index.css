@@ -17,7 +17,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #231e22;
+  background-color: #403e4e;
   font-family: "Quattrocento Sans", sans-serif;
 }
 
@@ -39,7 +39,7 @@ p {
 }
 
 .card-container {
-  background-color: #3a3238;
+  background-color: #2b283a;
   max-width: 22em;
 }
 
@@ -109,7 +109,7 @@ p {
 }
 
 .info-contact-link:hover {
-  background-color: #342d32;
+  background-color: #272434;
   transform: scale(1.05);
 }
 
@@ -159,17 +159,17 @@ p {
 }
 
 .icon-social {
-  color: #292327;
+  color: #272434;
   font-size: 1.7em;
   transition: all 0.2s ease-in-out;
 }
 
 .icon-social:hover {
-  color: #110f11;
+  color: #272434;
   transform: scale(1.1);
 }
 .icon-social:active {
-  color: #110f11;
+  color: #272434;
 }
 
 .sr-only {
